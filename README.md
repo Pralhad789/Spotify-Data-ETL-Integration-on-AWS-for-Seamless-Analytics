@@ -1,2 +1,9 @@
 # Spotify Data ETL Integration on AWS for Seamless Analytics
-The Spotify Data ETL Pipeline skillfully integrates Spotify API, using AWS Lambda for code deployment and CloudWatch triggers for automation. Extracted data seamlessly stored on AWS S3. Incorporating AWS Glue and Athena enables robust data analytics, ensuring efficiency and accessibility. A comprehensive solution for diverse data processing needs.
+
+* Effectively integrated and utilized Spotify API to optimize data extraction 
+* Successfully deployed code onto AWS Lambda, establishing a smooth and automated data extraction process.
+* Implemented triggers to facilitate automatic execution of the extraction process
+* Developed robust transformation functions, enhancing data quality and utility
+* Established automated triggers for seamless execution of transformation operations
+* Effectively organized and stored data files on S3, ensuring optimal accessibility and management
+* Skillfully constructed comprehensive analytics tables using Glue and Athena, facilitating insightful data analysis
