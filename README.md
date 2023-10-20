@@ -9,6 +9,7 @@
 * Skillfully constructed comprehensive analytics tables using **Glue** and **Athena**, facilitating insightful data analysis
 
 
+
 **Architecture :**
 ![ALT text](https://github.com/Pralhad789/Spotify-Data-ETL-Integration-on-AWS-for-Seamless-Analytics/blob/main/Architecture.png)
 
